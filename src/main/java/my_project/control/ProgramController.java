@@ -40,7 +40,7 @@ public class ProgramController {
         // Ball ball1 = new Ball(150,150);
         // viewController.draw(ball1);
 
-        ChessField field1 = new ChessField(0,0);
+        ChessField field1 = new ChessField(0,0,50,50);
         viewController.draw(field1);
 
     }
